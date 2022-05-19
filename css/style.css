@@ -1,0 +1,18 @@
+/* COMMON */
+.lg_container {
+    width: 1170px;
+    margin: 0 auto;
+
+}
+.c_white {
+    color: white;
+}
+
+/* HEADER */
+header {
+    background-color: #2c3e50;
+    height: 70px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
